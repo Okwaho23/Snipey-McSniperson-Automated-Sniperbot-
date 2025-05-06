@@ -1,0 +1,10 @@
+# Copyright (c) 2025 Neil Archer@hotmail.com. All rights reserved.
+
+ccxt
+web3
+flask
+kafka-python
+pandas
+numpy
+scikit-learn
+cryptography
